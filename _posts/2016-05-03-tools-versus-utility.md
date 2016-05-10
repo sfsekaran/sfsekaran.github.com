@@ -7,16 +7,17 @@ tags: [tools, frameworks, philosophy, programming languages]
 ---
 {% include JB/setup %}
 
-There's a pattern in the way people grow as developers (people?). At first it's just "I'll try whatever seems fun, or whatever is popular."
-Next, it's "This is the right tool. I know this tool well." Then there's "This tool is better than other tools. I'm going to champion this tool."
-Finally, you either stay there, in the "this tool is the only tool for me and there is no other tool" category, or you move into the next one: the tool doesn't matter.
+There's a pattern in the way people grow. At first it's just "I'll try whatever seems fun," or "this seems popular, I'll try it."
+Next, the mentality "I know this tool well, and this is the right tool." And again, there's "This tool is better than other tools."
+At this point, you have a choice: you either stay in the "this is the best tool and nothing can replace it" category, or you change your thinking to realize that **the tool doesn't matter**.
 
-Why am I talking about tools? Because programming languages, frameworks, server architectures, etc. are all just tools.
-It's not what you know, it's how you use what you know. So--for me, for example--I no longer care what programming language I use, as long as it serves me well.
+Why am I talking about tools? Because programming languages, frameworks, server architectures--and your phone--are all just tools.
 
-This could sound like an argument for us to keep doing the same things we've always been doing: "don't learn anything different, because we know these things and therefore will be able to do things with them more quickly and easily."
-Instead, we shouldn't restrict our lives because of what we currently know.
+I firmly believe the aphorism "it's not what you know, it's how you use what you know." For example, I no longer care what programming language I use, as long as I use it to some effect.
 
-I suggest we should try new things, figure out what they're good for, and use our judgement to assign the right tool to the job.
+This could sound like an argument to not bother learning new things. "Don't learn anything different, because we know this toolset very well. Why bother switching over to something else?"
+I propose that, instead, we shouldn't restrict our lives because of what we currently know.
 
-Plus, without learning new things, we'd feel stuck. No one likes stuck, right?
+I suggest we should try new tools, figure out what they're good for, and use our judgement to assign the right tool to the job.
+
+Plus, without learning new things, we'd feel stuck. And no one likes feeling stuck, right?
