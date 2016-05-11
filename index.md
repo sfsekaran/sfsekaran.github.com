@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 422 Unprocessable Entity
-tagline: The request was well-formed but was unable to be followed due to semantic errors.
+tagline: The request was well-formed but was unable to be followed due to semantic errors. Just kidding.
 ---
 {% include JB/setup %}
 
