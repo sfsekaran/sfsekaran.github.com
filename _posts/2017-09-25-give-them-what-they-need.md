@@ -2,7 +2,7 @@
 layout: post
 title: "Give Them What They Need"
 description: "Give them what the need--not what they want."
-category: "product management"
+category: "product-management"
 tags: ["soft skills", "defensive coding", "time management", "software development", "lunch and learn"]
 ---
 {% include JB/setup %}
