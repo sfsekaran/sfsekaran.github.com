@@ -9,7 +9,7 @@ tags: ["soft skills", "defensive coding", "time management", "software developme
 
 "GTWTN." I use this concept on a regular basis, without really conciously thinking about it.
 
-I learned it from my mentor, Anurag Jain, during my stay at HitFix. He didn't call it what I do now, but it is essentially the same concept. His primary constructive criticism for me was always that I would jump to implementation without first thinking about why that implementation was needed in the first place. In other words, he wanted me to be more like a product manager.
+I learned it from my mentor during my stay at HitFix. He didn't call it what I do now, but it is essentially the same concept. His primary constructive criticism for me was always that I would jump to implementation without first thinking about why that implementation was needed in the first place. In other words, he wanted me to be more like a product manager.
 
 A list of things that go through my mind upon receiving any request:
 
